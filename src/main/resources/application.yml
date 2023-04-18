@@ -1,0 +1,6 @@
+
+task-executor:
+  core-pool-size: 8
+  max-pool-size: 16
+  queue-capacity: 16
+  thread-name-prefix: "MAIN_THREAD_POOL_EXECUTOR-"
